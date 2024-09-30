@@ -3,11 +3,14 @@ README para o projeto da sprint 3 de EDGE computing de 2024
 
 GRUPO:
 Rm557270 Henrique
+</br>
 Rm556211 Matheus
+</br>
 Rm551669 Gabriel Belo
+</br>
 Rm557421 Gabriel Galerani
 
-[Assista ao vídeo aqui]([[https://www.youtube.com/watch?v=example](https://youtu.be/f-R3KPgGPhA)](https://youtu.be/f-R3KPgGPhA))
+[Assista ao vídeo aqui](https://youtu.be/f-R3KPgGPhA)
 
 
 O projeto do Super Trunfo da Fórmula-E com IoT visa transformar a experiência dos jogadores, aplicando conceitos modernos de Internet das Coisas (IoT). O objetivo é automatizar a leitura, processamento e interação com os cartões colecionáveis do jogo, tornando-o mais dinâmico e interativo. A ideia é utilizar cartões RFID/NFC, dispositivos conectados, e análise em tempo real para comparar atributos dos pilotos da Fórmula-E de forma inteligente.
